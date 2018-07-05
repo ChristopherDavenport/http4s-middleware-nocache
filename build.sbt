@@ -16,9 +16,9 @@ val doobieV = "0.5.3"
 val pureConfigV = "0.9.1"
 val refinedV = "0.9.1"
 
-val specs2V = "4.2.0"
-val disciplineV = "0.8"
-val scShapelessV = "1.1.6"
+val specs2V = "4.3.0"
+val disciplineV = "0.10.0"
+val scShapelessV = "1.1.8"
 
 
 lazy val contributors = Seq(
