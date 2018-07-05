@@ -1,2 +1,1 @@
-# http4s-middleware-nocache
-
+# http4s-middleware-nocache [![Build Status](https://travis-ci.org/ChristopherDavenport/http4s-middleware-nocache.svg?branch=master)](https://travis-ci.org/ChristopherDavenport/http4s-middleware-nocache) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.chrisdavenport/http4s-middleware-nocache_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.chrisdavenport/http4s-middleware-nocache_2.12)
