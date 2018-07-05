@@ -1,6 +1,4 @@
-# http4s-middleware-nocache [![Build Status](https://travis-ci.com/ChristopherDavenport/http4s-middleware-nocache.svg?branch=master)](https://travis-ci.com/ChristopherDavenport/http4s-middleware-nocache) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.chrisdavenport/http4s-middleware-nocache_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.chrisdavenport/http4s-middleware-nocache_2.12)
-
-## Deprecated
+# Deprecated
 
 Introduced `StaticHeaders` middleware in http4s 0.18.15 so this library is now deprecated.
 
@@ -11,7 +9,8 @@ import org.http4s.server.headers.StaticHeaders
 StaticHeaders.`no-cache`(service)
 ```
 
-## Information
+## http4s-middleware-nocache [![Build Status](https://travis-ci.com/ChristopherDavenport/http4s-middleware-nocache.svg?branch=master)](https://travis-ci.com/ChristopherDavenport/http4s-middleware-nocache) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.chrisdavenport/http4s-middleware-nocache_2.12/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.chrisdavenport/http4s-middleware-nocache_2.12)
+
 
 This is a middleware that adds a `Cache-Control: no-cache` to every response returned by the `HttpService[F]`.
 
