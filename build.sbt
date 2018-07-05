@@ -1,5 +1,5 @@
 lazy val core = project.in(file("."))
-    .settings(commonSettings)
+    .settings(commonSettings, releaseSettings, mimaSettings)
     .settings(
       name := "http4s-middleware-nocache"
     )
